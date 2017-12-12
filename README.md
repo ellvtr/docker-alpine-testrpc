@@ -1,5 +1,5 @@
 # Ethereum testrpc 
-## based on lightweight node/alpine image
+## based on lightweight [node:alpine image](https://hub.docker.com/_/node/)
 
 The image is on Docker Hub:
 https://hub.docker.com/r/ellvtr/testrpc/
